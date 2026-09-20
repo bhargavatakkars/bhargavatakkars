@@ -29,7 +29,7 @@ I build systems that turn complex problems into practical, reliable software. My
 
 ## Projects
 
-- [EduVale](https://eduvale.in) — a student-focused engineering admission platform for Telangana, Andhra Pradesh, and Maharashtra
+- [EduVale](https://eduvale.in) - a student-focused engineering admission platform for Telangana, Andhra Pradesh, and Maharashtra
   - Impact: 400K+ students guided, 8M+ organic views, 500+ colleges indexed
 
 ## Tech stack
